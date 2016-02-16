@@ -5,3 +5,5 @@ ignoreHeader.pig script
   2. CSVExcelStorage are available in piggybank.jar
   3. Register the piggybank.jar
   4. Stores the output in hdfs
+
+In Datasets folder you can find sample cdr log files to practice. This file has arround 1000 lines.
